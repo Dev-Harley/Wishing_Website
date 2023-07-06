@@ -379,4 +379,8 @@ input {
         width: 250px;
         height: auto;
     }
+
+        .main-greeting{
+        min-width: 400px;
+    }
 }
